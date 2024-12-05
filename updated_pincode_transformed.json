@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.50696261666667,
+          23.742976866666666
+        ]
+      },
+      "properties": {
+        "state": "Jharkhand",
+        "district": "Latehar",
+        "locality": "Latehar Hsgii",
+        "pincode": "829206"
+      }
+    }
+  ]
+}
